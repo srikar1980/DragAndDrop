@@ -1,6 +1,6 @@
 - To run at one-go
 
-  https://github.com/your-username/your-repo.git
+  https://githubbox.com/srikar1980/DragAndDrop
 
 - [Installation](#installation)
 
@@ -9,7 +9,7 @@
   1. Clone the repository:
 
   ```bash
-  git clone https://github.com/your-username/your-repo.git
+  git clone https://github.com/srikar1980/DragAndDrop.git
   2. cd demo-dragdrop
   3. npm install
 
